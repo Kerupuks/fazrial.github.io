@@ -5027,6 +5027,7 @@ a img {
 }
 
 .user-projects {
+    justify-content: center;
     margin: 20px auto
 }
 
