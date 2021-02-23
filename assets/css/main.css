@@ -5047,7 +5047,8 @@ a img {
 }
 
 .user-projects p {
-    margin-right: 5px
+    margin-right: 5px;
+    width: 48%;
 }
 
 @media only screen and (min-width:550px) {
@@ -5055,8 +5056,6 @@ a img {
         text-align: center;
         width: 48%;
         margin-top: -5%;
-        margin-left: 20%;
-        margin-right: 20%;
     }
 
     /* .contents,
