@@ -5015,7 +5015,7 @@ a img {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 50%;
+    width: 90%;
     max-width: 960px;
     margin: 0 auto
 }
