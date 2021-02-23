@@ -5052,7 +5052,7 @@ a img {
 
 @media only screen and (min-width:550px) {
     .contents {
-        float:none;
+        text-align: center;
         width: 48%
     }
 
