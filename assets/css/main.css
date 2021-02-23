@@ -5054,9 +5054,10 @@ a img {
     .contents {
         text-align: center;
         width: 48%
+        margin-top: -5%
     }
 
-    .contents,
+    /* .contents,
     .contents-right {
         margin-top: -5%
     }
@@ -5078,7 +5079,7 @@ a img {
 
     .images-left img {
         float: left
-    }
+    } */
 }
 
 .project-link {
