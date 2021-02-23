@@ -5053,8 +5053,10 @@ a img {
 @media only screen and (min-width:550px) {
     .contents {
         text-align: center;
-        width: 48%
-        margin-top: -5%
+        width: 48%;
+        margin-top: -5%;
+        margin-left: 20%;
+        margin-right: 20%;
     }
 
     /* .contents,
