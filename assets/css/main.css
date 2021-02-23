@@ -5012,6 +5012,7 @@ a img {
 }
 
 #projects {
+    text-align: center;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -5051,7 +5052,6 @@ a img {
 
 @media only screen and (min-width:550px) {
     .contents {
-        align-items: center;
         width: 48%
     }
 
