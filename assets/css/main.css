@@ -5015,14 +5015,14 @@ a img {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 90%;
+    width: 50%;
     max-width: 960px;
     margin: 0 auto
 }
 
 @media only screen and (min-width:550px) {
     #projects {
-        width: 80%
+        width: 50%
     }
 }
 
@@ -5048,13 +5048,13 @@ a img {
 
 .user-projects p {
     margin-right: 5px;
-    width: 48%;
+    width: 50%
 }
 
 @media only screen and (min-width:550px) {
     .contents {
         text-align: center;
-        width: 48%;
+        width: 50%;
         margin-top: -5%;
     }
 
