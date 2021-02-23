@@ -5012,10 +5012,9 @@ a img {
 }
 
 #projects {
-    text-align: center;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
     width: 90%;
     max-width: 960px;
     margin: 0 auto
